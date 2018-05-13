@@ -26,6 +26,8 @@
 ### Explored Data by Binary Segments
 ••Split data into two groups based on whether respondent is a Star Wars or Star Trek fan.  
 ••Analyzed and compared most-viewed movies with highest-ranked movies.
+# Observations
+### Higher rankings as well as more viewings of the original movies overall.
 # Next Steps
 •Segment data based on columns such as 'Education' and 'Location(Census Region)'.  
 •Clean and explore columns which contain data on favorable and unfavorable characters of the movies.

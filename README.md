@@ -1,5 +1,5 @@
 # Star Wars Survey
-### •To explore survey data collected from fans regarding various Star Wars movies.
+### •To explore survey data collected from fans regarding the various Star Wars movies.
 
 # Installation
 •Clone this repo to your computer.  
